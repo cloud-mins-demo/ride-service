@@ -1,0 +1,4 @@
+com/app/ride/repository/RideRepository.class
+com/app/ride/RideApplication.class
+com/app/ride/controller/RideController.class
+com/app/ride/service/RideService.class
