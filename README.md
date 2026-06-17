@@ -17,22 +17,22 @@ This repository contains a dummy ride-service application used to test and valid
 ## Tech Stack
 
 - Frontend
-	- React
+	- React 18.3.1
 - Backend
 	- Java 17
-	- Spring Boot
-	- Node.js
-	- Python
-	- FastAPI
+	- Spring Boot 3.3.2
+	- Node.js 20.16.0
+	- Python 3.12.4
+	- FastAPI 0.111.0
 - Database
-	- PostgreSQL
+	- PostgreSQL 16.3
 - DevOps
-	- Docker
-	- AWS
-	- GitHub Actions
+	- Docker 27.0.3
+	- AWS 1.0
+	- GitHub Actions 4.0
 - Testing
-	- JUnit 5
-	- Pytest
+	- JUnit 5.10.2
+	- Pytest 8.2.2
 
 ## Project Structure
 
